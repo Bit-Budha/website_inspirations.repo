@@ -35,4 +35,7 @@ https://ututo.org/
 
 Yo gusto el espansol y necescito mas en me web sitio web
 
+https://www.linkedin.com/learning/html-essential-training-2020/what-is-html?u=92905738
+https://www.linkedin.com/in/jensimmons/?trk=lil_instructor
 
+I completed this course on Saturday the first of october two thousand twenty two. I remember Jen Simmons being so passionate about Semantic html and not just using divs everywhere. She also was very serious about web accessibility, I have to remember make sure people with disabilities can access understand and enjoy the site as well.
