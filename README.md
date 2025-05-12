@@ -39,3 +39,6 @@ https://www.linkedin.com/learning/html-essential-training-2020/what-is-html?u=92
 https://www.linkedin.com/in/jensimmons/?trk=lil_instructor
 
 I completed this course on Saturday the first of october two thousand twenty two. I remember Jen Simmons being so passionate about Semantic html and not just using divs everywhere. She also was very serious about web accessibility, I have to remember make sure people with disabilities can access understand and enjoy the site as well.
+
+https://www.valamis.com/hub/cybersecurity-training
+I like how this site has the vertical progress tracker on the right side with dots, also on the top how the horizontal bar goes out of scope when you scroll down and comes back is cool.
