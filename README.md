@@ -42,3 +42,6 @@ I completed this course on Saturday the first of october two thousand twenty two
 
 https://www.valamis.com/hub/cybersecurity-training
 I like how this site has the vertical progress tracker on the right side with dots, also on the top how the horizontal bar goes out of scope when you scroll down and comes back is cool.
+
+https://www.caribbiznetwork.com/shopcaribbean
+I like how this page has things in the background floating from the left to the right.
