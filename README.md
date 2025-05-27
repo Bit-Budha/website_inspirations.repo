@@ -45,3 +45,6 @@ I like how this site has the vertical progress tracker on the right side with do
 
 https://www.caribbiznetwork.com/shopcaribbean
 I like how this page has things in the background floating from the left to the right.
+
+https://www.nextgov.com/people/2025/05/top-cisa-division-chiefs-depart-amid-broader-agency-reduction-plans/405603/
+This site is cool because as you scoll it brings you to different URLs, I'll figure out how they do it and make it work.
